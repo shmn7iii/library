@@ -21,5 +21,9 @@ sudo rm -rf ipfs-cluster-service
 sudo rm -f ipfs-cluster-ctl_v0.14.1_linux-amd64.tar.gz
 sudo rm -rf ipfs-cluster-ctl
 
-# 確認
-ipfs-cluster-service version
+echo "=============================================================================="
+echo ""
+echo "    ipfs-cluster-service and ipfs-cluster-ctl is now installed."
+echo "    Next, you have to run this in home directory: 'ipfs-cluster-service init'"
+echo ""
+echo "=============================================================================="
