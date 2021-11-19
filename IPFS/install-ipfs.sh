@@ -18,6 +18,10 @@ sudo bash install.sh
 cd /home/yamalabo
 ipfs init
 
+# remove dirs
+sudo rm -f go-ipfs_v0.10.0_linux-amd64.tar.gz
+sudo rm -rf go-ipfs
+
 # setup systemd
 sudo cat <<EOF > /etc/systemd/system/ipfs.service
 [Unit]
