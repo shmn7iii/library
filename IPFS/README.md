@@ -4,11 +4,15 @@ IPFSとはProtocolLabsがHTTPの補完を目指して開発するP2P型のハイ
 
 - IPFSについて
 
-	[IPFS](https://shmn7iii.notion.site/IPFS-c02419bfecdd444ebc1d31700bc195a2)
+	[IPFS](https://zenn.dev/shmn7iii/articles/0a23b36d798007)
 	
 - IPFSの使い方
 
-	[IPFS 技術概要](https://shmn7iii.notion.site/WIP-IPFS-dc2a1e83473449368dcb233f4154214e)
+	[IPFS環境構築](https://zenn.dev/shmn7iii/articles/f77bf352e31fc5)
+
+- プライベートIPFSネットワーク
+
+	[プライベートIPFSネットワークを構築する](https://zenn.dev/shmn7iii/articles/516131d9563396)
 
 - IPFSとFilecoinの違い
 
