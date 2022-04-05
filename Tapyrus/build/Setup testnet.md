@@ -4,10 +4,9 @@
 
 <aside>
 💡 いずれかでTapyrus coreをインストールしていることが前提
+[Build Tapyrus core](/Tapyrus/build/Build Tapyrus core) 
 
-[Build Tapyrus core](https://www.notion.so/Build-Tapyrus-core-663e9057eb81429989ee1c488dc3c214) 
-
-[Install Tapyrus core](https://www.notion.so/Install-Tapyrus-core-518664e5ed0e454eae7bc1bcb2e641f6) 
+[Install Tapyrus core](/Tapyrus/build/Install Tapyrus core) 
 
 </aside>
 
