@@ -4,10 +4,6 @@
 
 💡 いずれかでTapyrus coreをインストールしていることが前提
 
-[Build Tapyrus core](/Tapyrus/build/Build Tapyrus core) 
-
-[Install Tapyrus core](/Tapyrus/build/Install Tapyrus core) 
-
 ```bash
 # create data dir
 $ sudo mkdir /var/lib/tapyrus-testnet
