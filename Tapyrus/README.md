@@ -13,3 +13,7 @@ TapyrusはChaintope社が開発するBitcoinフォークのコンソーシアム
 	[「Tapyrus Coreをdevモードで構築する 〜Docker編〜」](https://zenn.dev/shmn7iii/articles/53e533e2ac3756)
 
 	[「Tapyrus Coreをdevモードで起動する 〜Ubuntu編〜」](https://zenn.dev/shmn7iii/articles/6dbdf6394a44c1)
+	
+	[「Tapyrus Core v0.5.0を触ってみる」](https://zenn.dev/shmn7iii/articles/65318fa90432f0)
+
+​				
